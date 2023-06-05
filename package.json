@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "mocha": "^10.2.0"
+  },
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seaboyz/javascript-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seaboyz/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/seaboyz/javascript-testing#readme",
+  "description": ""
+}
