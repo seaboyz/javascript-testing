@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "chai": "^4.3.7",
     "mocha": "^10.2.0"
   },
   "name": "javascript-testing",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "mocha index.test.js"
   },
